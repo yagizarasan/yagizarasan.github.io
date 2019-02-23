@@ -1,0 +1,23 @@
+body {
+	padding: 4em;
+	font-family: "Cursive", "Arial", sans-serif;
+line-height: 1.5;
+color: #ffffff;
+background-image: url("ben2.jpg");
+background-repeat: no-repeat;
+background-position: center;
+background-size: 155em;
+}
+img{
+	max-height: 500px
+
+}
+h1, h2, a {
+	color: red;
+}
+
+.content {
+  max-width: 500px;
+  margin: auto;
+  padding: 10px;
+}
